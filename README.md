@@ -5,8 +5,7 @@ Happy learning!
 
 Emirhan BULUT
 
-Senior Artificial Intelligence Engineer and Inventor
-
+Head of AI and AI Inventor
 
 ###**The coding language used:**
 
