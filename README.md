@@ -1,5 +1,11 @@
 # **Emotion Prediction with Semi Supervised Learning of Machine Learning Software with RC Algorithm - By Emirhan BULUT**
+V1
+
 I have created an artificial intelligence software that can make an emotion prediction based on the text you have written using the Semi Supervised Learning method and the RC algorithm. I used very simple codes and it was a software that focused on solving the problem. I aim to create the 2nd version of the software using RNN (Recurrent Neural Network). I hope I was able to create an example for you to use in your thesis and projects.
+
+V2
+
+I decided to apply a technique that I had developed in the emotion dataset that I had used Semi-Supervised learning in Machine Learning methods before. This technique is produced according to Quantum5 laws. I developed a smart artificial intelligence software that can predict emotion with Quantum5 neuronal networks. I share this software with all humanity as open source on Kaggle. It is my first open source project in NLP system with Quantum technology. Developing the NLP system with Quantum technology is very exciting!
 
 Happy learning!
 
