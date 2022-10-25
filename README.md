@@ -19,11 +19,19 @@ Head of AI and AI Inventor
 
 ###**Libraries Used:**
 
+`Keras`
+
+`Tensorflow`
+
 `NumPy`
 
 `Pandas`
 
 `Scikit-learn (SKLEARN)`
+
+<img class="fit-picture"
+     src="https://raw.githubusercontent.com/emirhanai/Emotion-Prediction-with-Semi-Supervised-Learning-of-Machine-Learning-Software-with-RC-Algorithm---By/main/Quantum%205.png"
+     alt="Emotion Prediction with Quantum5 Neural Network on AI - Emirhan BULUT">
 
 <img class="fit-picture"
      src="https://raw.githubusercontent.com/emirhanai/Emotion-Prediction-with-Semi-Supervised-Learning-of-Machine-Learning-Software-with-RC-Algorithm---By/main/Emotion%20Prediction%20with%20Semi%20Supervised%20Learning%20of%20Machine%20Learning%20Software%20with%20RC%20Algorithm%20-%20By%20Emirhan%20BULUT.png"
